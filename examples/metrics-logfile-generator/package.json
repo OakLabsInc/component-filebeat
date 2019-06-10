@@ -1,0 +1,13 @@
+{
+  "name": "metrics-logfile-generator",
+  "version": "0.0.1",
+  "description": "A metrics log generator for testing filebeats.",
+  "main": "app.js",
+  "engines": {
+    "node": "10.16"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
